@@ -8,3 +8,13 @@ Komponenter til Drone:
 6) Måske Speedcontroller?
 7) Receiver & Transceiver(arduino/rasperry)
 8) Gyroskop
+9) Ledninger
+
+### Fase 1 
+- Køb komponenter
+- Styr motor med Pi/Arduino
+- Monter komponenter på frame
+- ...
+
+### Fase 2 
+- Design egen "pixhawk controller"
